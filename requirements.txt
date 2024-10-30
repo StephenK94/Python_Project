@@ -1,0 +1,6 @@
+Flask
+gunicorn
+URL for an API that is being used for the joke generator
+request
+redirect
+url_for
