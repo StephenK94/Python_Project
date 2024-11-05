@@ -1,4 +1,4 @@
-/*used const to declare nullable values*/
+/*used const to declare unchangable values*/
 const jokeContainer = document.getElementById("jokes");
 const btn = document.getElementById("btn");
 const url = "https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&type=single";
